@@ -1,0 +1,5 @@
+beat
+captcha
+human
+idk
+missing
